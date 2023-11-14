@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Oktonius Zevanya Simanungkalit</h1>
-<h3 align="left">This is a Disney+ clone website, a site that looks exactly like Disney+ itself. Disney+ is a subscription-based streaming service owned and operated by The Walt Disney Company. The service features content from various Disney-owned brands, including Disney, Pixar, Marvel, Star Wars, and National Geographic.</h3>
+<h3 align="left">This is a Disney+ clone website, a site that looks exactly like Disney+ itself</h3>
+<p>Disney+ is a subscription-based streaming service owned and operated by The Walt Disney Company. The service features content from various Disney-owned brands, including Disney, Pixar, Marvel, Star Wars, and National Geographic.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oktoniusz&label=Profile%20views&color=0e75b6&style=flat" alt="oktoniusz" /> </p>
 
